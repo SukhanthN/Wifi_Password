@@ -4,5 +4,8 @@
 netsh wlan show profile wifi_name key=clear
  ```
 
+## Check the battery health in windows
 
-
+```
+powercfg /batteryreport
+```

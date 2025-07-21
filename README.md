@@ -14,5 +14,5 @@ powercfg /batteryreport
 Press Win + R, type ncpa.cpl, and hit Enter
 
 ```
-type ncpa.cpl
+ncpa.cpl
 ```

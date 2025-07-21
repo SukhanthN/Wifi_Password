@@ -11,7 +11,7 @@ powercfg /batteryreport
 ```
 
 ## Check the network connections in Windows
-
-```
 Press Win + R, type ncpa.cpl, and hit Enter
-```
+
+
+Press Win + R, type ncpa.cpl
